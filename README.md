@@ -1,3 +1,5 @@
+forked from https://github.com/alex-kn/comdirect-api-simple/
+
 # Comdirect API
 
 This is an unofficial python wrapper for the comdirect API for private consumers (April 2020).
